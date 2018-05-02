@@ -13,7 +13,7 @@ public class ConventVarDemo {
     int salary = 9999;
 
     // 2.声明变量(没有赋值)
-    int age;
+    int age;//默认0赋值
     // 赋值
     age = 29;
 
